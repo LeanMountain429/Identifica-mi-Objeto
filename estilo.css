@@ -1,0 +1,25 @@
+body{
+    background-image: url("Icon.png");
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-family: 'Righteous', cursive !important;
+    color: aqua !important;
+}
+h3{
+    font-family: 'Righteous', cursive !important;
+    color: aquamarine !important;
+}
+canvas{
+    background-color: aliceblue;
+}
+button{
+    border-radius: 60px;
+    height: 50px;
+    width: 200px;
+    font-size: large !important;
+    font-family: 'Righteous', cursive !important;
+    color: brown !important;
+    background-color: black;
+}
